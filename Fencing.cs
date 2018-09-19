@@ -20,6 +20,8 @@ namespace extraCredit2
             Console.ReadKey();
             yardSize = length*height;
             Console.WriteLine("You will need " + yardSize + " Square feet of fencing for the required perimeter of the yard.");
+
+            Console.WriteLine("This fencing calculator was brought to you by Chris Morris.");
         }
     }
 }
