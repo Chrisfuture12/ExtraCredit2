@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/obj/Debug/netcoreapp2.1/extraCredit2.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/obj/Debug/netcoreapp2.1/extraCredit2.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/obj/Debug/netcoreapp2.1/extraCredit2.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/obj/Debug/netcoreapp2.1/extraCredit2.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/bin/Debug/netcoreapp2.1/extraCredit2.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/bin/Debug/netcoreapp2.1/extraCredit2.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/bin/Debug/netcoreapp2.1/extraCredit2.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/bin/Debug/netcoreapp2.1/extraCredit2.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/bin/Debug/netcoreapp2.1/extraCredit2.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/obj/Debug/netcoreapp2.1/extraCredit2.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/extraCredit2/obj/Debug/netcoreapp2.1/extraCredit2.pdb
